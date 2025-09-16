@@ -2,7 +2,7 @@ I share my figma design link of Real Time Project.
 
 Link: https://www.figma.com/design/GVIBVi4PEW6UVPJ2yVtgy0/Office-Rental-Website---App?node-id=202-13641&t=WZXIIkAG7ssCzKBm-1
 
-Describtion:
+Description:
 
 Project: Office Rental Website & App
 
